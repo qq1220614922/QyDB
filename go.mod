@@ -1,3 +1,1 @@
-module QyDB
-
-go 1.16
+module "QyDB"
